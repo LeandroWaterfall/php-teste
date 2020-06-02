@@ -1,0 +1,63 @@
+.form {
+  background-color: #e1e1e1; 
+  width: 300px; 
+  height: 150px; 
+  left: 50%; 
+  margin: -130px 0 0 -210px; 
+  padding:10px;
+  position: absolute; 
+  top: 50%;
+}
+section.container {
+  top: 58%;
+  position: absolute;
+}
+
+span.title {
+  position: relative;
+  left: 75px;
+  bottom: 6px;
+}
+
+/*.itens {
+  display: flex;
+}*/
+
+.first-input {
+  width: 107px;
+}
+
+.cpf-label {
+  bottom: 22px;
+  position: relative;
+  left: 125px;
+}
+input.cpf {
+  width: 153px;
+  bottom: 4px;
+  position: relative;
+}
+
+}
+
+.creci-label {
+  position: absolute;
+  left: 10px;
+  top: 60px;
+}
+
+.submit {
+  position: absolute;
+  top: 96px;
+
+}
+button[type="submit" i] {
+  background-color: #444040;
+  width: 281px;
+  color:white;
+}
+input[name="nome" i] {
+  width: 280px;
+  bottom: 19px;
+  position: relative;
+}
